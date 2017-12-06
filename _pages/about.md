@@ -16,11 +16,11 @@ I'm currently a senior undergraduate student of [Faculty of Electronic Informati
 My research interest includes Computer Vision, Computer Graphics and Deep Learning.
 
 
-If you'd like to chat, feel free to send me an email at **huwenbodut@gmail.com** or **huwenbo@mail.dlut.edu.cn**.
+If you'd like to chat, feel free to send me an [email](mailto:huwenbodut@gmail.com).
 
 ## News
 * **November. 2017** [DnCNN-tensorflow](https://github.com/crisb-DUT/DnCNN-tensorflow): An implementation of the TIP2017 paper [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (DnCNN)](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf) in tensorflow.
 ![](https://raw.githubusercontent.com/crisb-DUT/DnCNN-tensorflow/master/img/compare.png)
 
-* **October. 2017** I was recomended to achieve The CCF Elite Collegiate Award，ECA. ![](http://www.ccf.org.cn/c/2017-11-01/617905.shtml)
+* **October. 2017** I was recomended to achieve The CCF Elite Collegiate Award，ECA. [http://www.ccf.org.cn/c/2017-11-01/617905.shtml](http://www.ccf.org.cn/c/2017-11-01/617905.shtml)
 ![](../images/CCF.jpg)
