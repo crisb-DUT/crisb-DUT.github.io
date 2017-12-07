@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## This homepage is under developing...
 
 ## Hi there!
 
