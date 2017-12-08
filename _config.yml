@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HU Wenbo's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "HU Wenbo"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "HU Wenbo"
   avatar           : "profile.png"
-  bio              : "An undergraduate student majoring computer science and technology."
+  bio              : "Undergraduate"
   location         : "Dalian University of Technology"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
