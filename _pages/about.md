@@ -20,7 +20,7 @@ My research interest includes Computer Vision, Computer Graphics and Deep Learni
 If you'd like to chat, feel free to send me an [email](mailto:huwenbodut@gmail.com).
 
 ## News
-* **January. 2018** I [joined SenseTime](https://www.sensetime.com/) as a research intern working on low-level computer vision problems.
+* **January. 2018** I joined [SenseTime](https://www.sensetime.com/) as a research intern working on low-level computer vision problems.
 
 * **November. 2017** [DnCNN-tensorflow](https://github.com/crisb-DUT/DnCNN-tensorflow): An implementation of the TIP2017 paper [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (DnCNN)](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf) in tensorflow.
 ![](https://raw.githubusercontent.com/crisb-DUT/DnCNN-tensorflow/master/img/compare.png)
